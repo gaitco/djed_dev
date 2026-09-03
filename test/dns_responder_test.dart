@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:maat_djed/maat_djed.dart';
+import 'package:djed_dev/djed_dev.dart';
 import 'package:test/test.dart';
 
 Uint8List query(String name, int type) {

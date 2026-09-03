@@ -1,6 +1,6 @@
 import 'dart:typed_data';
 
-import 'package:maat_djed/maat_djed.dart';
+import 'package:djed_dev/djed_dev.dart';
 import 'package:test/test.dart';
 
 /// A query for [name] of [type] as a resolver would send it.

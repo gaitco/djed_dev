@@ -10,7 +10,7 @@ Dart; no Homebrew services.
 ## Install (macOS)
 
 ```sh
-dart pub global activate --source path packages/maat_djed   # or from pub.dev later
+dart pub global activate --source path packages/djed_dev   # or from pub.dev later
 djed install        # asks for sudo three times (see below)
 djed park ~/Sites   # every child with bin/server.dart becomes <dir>.test
 djed link blog      # or one directory under a chosen name

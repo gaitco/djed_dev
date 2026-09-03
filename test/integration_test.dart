@@ -4,7 +4,7 @@ import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:path/path.dart' as p;
-import 'package:maat_djed/maat_djed.dart';
+import 'package:djed_dev/djed_dev.dart';
 import 'package:test/test.dart';
 
 final fixture = p.absolute('test', 'fixtures', 'fake_app');

@@ -1,7 +1,7 @@
-name: maat_djed
+name: djed_dev
 description: Valet-style local environment for Maat apps - *.test domains, trusted HTTPS, on-demand app processes.
 version: 0.1.0
-repository: https://github.com/gaitco/maat_djed
+repository: https://github.com/gaitco/djed_dev
 environment:
   sdk: ^3.12.0
 executables:
