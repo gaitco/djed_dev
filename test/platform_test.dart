@@ -1,6 +1,6 @@
 import 'dart:io';
 
-import 'package:maat_djed/maat_djed.dart';
+import 'package:djed_dev/djed_dev.dart';
 import 'package:test/test.dart';
 
 const label = 'com.maat.djed';
